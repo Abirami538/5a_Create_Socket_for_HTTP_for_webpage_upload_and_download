@@ -106,6 +106,7 @@ index.html:
 <img width="1920" height="1020" alt="Screenshot 2026-05-18 000557" src="https://github.com/user-attachments/assets/7db82dd8-d2f2-48ab-8877-0d974552f775" />
 
 <img width="1920" height="1020" alt="Screenshot 2026-05-18 000848" src="https://github.com/user-attachments/assets/ead2c5fd-535c-4957-acf9-7598c11e3e81" />
+
 ## Result
 
 Thus the socket for HTTP for web page upload and download created and Executed
